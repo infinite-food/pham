@@ -37,7 +37,7 @@ In shorthand we can express the same as PHAM 75/40.
      * Has been produced and assembled
      * Has been tested (solo) and meets design requirements
      * Has been tested (installed in situ with all adjacent modules and subsystems within a prototype unit) and confirmed to meet design requirements under these conditions
-   * __Readiness for manufacturing__
+   * __Readiness for manufacturing__ (Each point scores 10% or a fraction thereof)
      * Functional completion (as above)
      * Design documented (eg. 3D models, design discussion such as component selection justification, etc.)
      * BOM list written
