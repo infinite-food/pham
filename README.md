@@ -1,6 +1,6 @@
 # Pre-revenue Hardware Achievement Metric (PHAM)
 
-This metric was designed by [Infinite Food](http://infinite-food.com/) for YCombinator Startup School 2018 to provide what is hopefully a simple, standard, generally applicable progress metric for pre-revenue hardware startups.
+This metric was designed by [Infinite Food](http://infinite-food.com/) for [YCombinator Startup School 2018](http://startupschool.org) to provide what is hopefully a simple, standard, generally applicable progress metric for pre-revenue hardware startups.
 
 ## Philosophy
 
