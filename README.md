@@ -50,10 +50,6 @@ In shorthand we can express the same as PHAM 75/40.
      * Probably failure modes declared (and any options to reduce them, eg. by upgrading components in subsequent design iteration)
  * Calculate the total.
 
-## Example
-
-Please see the [LibreOffice Calc template](pham-template) for an example.
-
 ## License
 
 [MIT](LICENSE)
