@@ -43,7 +43,7 @@ In shorthand we can express the same as PHAM 75/40.
      * BOM list written
      * BOM per-material cost estimation completed at initial manufacturing volumes
      * Assembly process documented (steps, tools, space requirements, inputs, outputs, etc.)
-     * Assembly process idiot-proofed ([poka-yoke](https://en.wikipedia.org/wiki/Poka-yoke); multiple unskilled idiot volunteers did it right first time)
+     * Assembly process idiot-proofed (*[poka-yoke](https://en.wikipedia.org/wiki/Poka-yoke)*; multiple unskilled idiot volunteers did it right first time)
      * Post-assembly testing procedures documented
      * Maintenance schedule designed and documented (if applicable)
      * Probable lifetime documented (if possible to estimate)
